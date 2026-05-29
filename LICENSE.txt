@@ -33,4 +33,4 @@ kmplayer, kmplayer-pro, media-player, 4k-player, kmplayer-crack, kmplayer-2026
 
 Copyright (c) 2026 Contributors. MIT License.
 
-Provided AS IS without warranty. Use at your own risk.                   
+Provided AS IS without warranty. Use at your own risk.                    
